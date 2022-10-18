@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Swald
 - Beginner coder for now
-- Start ''MÜ-Kodluyoruz & Patika.dev Yazılıma Başlangıç Programı'' course 
+
+
 
 
 
